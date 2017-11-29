@@ -1,0 +1,16 @@
+[meta]
+name = Princess Castle
+description = Rescue a princess from a mysterious castle.
+authors = [Lily Mayfield, Thomas Almquist]
+
+[intro]
+ascii_art = \
+    jaespoijfespoijfpaeoifjepasoisjfpoaisejfpoasiejf
+    asepfoijaesfpoijeaspoifjaspofijsapoifjpasoifjpeo
+    pasoeifjpaesoijfepesaoijfpoiaesjfpoijasefpoijsae
+    aepsoifjpaseoifjpaesofijeasfpoijesafpoijesfapoie
+dialog = Once upon a time there was a princess who
+    was kidnapped and taken to a far off mysterious
+    castle. One day you receive a letter which is
+    the princess' plea for help, and so your quest
+    begins!
